@@ -15,18 +15,17 @@
     7) Замените неправильный путь на правильный путь в котором хранятся файлы вашего проекты (см ChangePath2.jpg).
   
 2. Необходимо реализовать следующие функции:
-
-  1) из readWrite.cpp
+    1) из readWrite.cpp
      void readpoints(std::ifstream& in, std::vector<mycluster::point>& points)
      void write_clusters(std::string outfilename, std::vector<mycluster::point>& points)
      void write_siluettes(std::string outfilename, std::vector<mycluster::cluster>& clusters)
-  2) из cluster.h
+    2) из cluster.h
      все элементы класса point
-  3) из cluster.cpp
+    3) из cluster.cpp
      void normalize_column(int ind, vector<point>& points)
      double dist2(const point &a, const point &b)
      double dist(const point &a, const point &b)
-  4) из mainwindow.cpp
+    4) из mainwindow.cpp
      разкомментировать все функции с пометкой //  UNCOMMENT ME WHEN FIXED после того, как данные функции реализованы
 
 
