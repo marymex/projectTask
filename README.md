@@ -16,7 +16,7 @@
 
     7) Замените неправильный путь на правильный путь в котором хранятся файлы вашего проекты (см ChangePath2.jpg).
     
-    ![changePath2](https://github.com/marymex/projectTask/blob/master/changePath2.jpg)
+![changePath2](https://github.com/marymex/projectTask/blob/master/changePath2.jpg)
   
 2. Необходимо реализовать следующие функции:
     1) из readWrite.cpp
