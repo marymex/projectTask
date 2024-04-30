@@ -26,7 +26,7 @@ private slots:
 
     void on_pushButton_2_clicked(); // Clustering
 
-    void on_mnuFileOpen_triggered(); // open file event
+    //void on_mnuFileOpen_triggered(); // open file event
 
     void on_pushButton_3_clicked(); // Interpreting
 
