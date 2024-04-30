@@ -2,7 +2,9 @@
 
 Проект нужно собрать в QT-creator.
     1) Создайте QWidjet application
+    
     2) Разместите 2 tableView элемента на форме используя дизайнер, разместите 4 pushButton, textEdit и lineEdit (см form.jpg)
+    
 ![form](https://github.com/marymex/projectTask/blob/master/form.jpg)
     3) Скопируйте файлы examplemodel.cpp, examplemodel.h, main.cpp, mainwindow.cpp, mainwindow.h, clusters.cpp, clusters.h, readWrite.cpp, readWrite.h, clusters.txt, siluettes.txt в ваш проект как показано в редакторе (см editor.jpg). Файлы вашего проект расположены в некотором каталоге файловой системы. К этому каталогу нужно добавить навые фвйлы (см ProjectFiles.jpg)
 ![projectFiles](https://github.com/marymex/projectTask/blob/master/ProjectFiles.jpg)
