@@ -1,17 +1,16 @@
-1. Данное задание является одной из возможностей получить баллы за проект. Критерии его оценки перечислены ниже. Если вы пишете проект с нуля, без использования какой-либо части/частей этого кода, то ваш проект будет оценен выше. 
+1. Данное задание является одной из возможностей получить баллы за проект. Критерии его оценки перечислены ниже. 
 Проект нужно собрать в QT-creator.
-    1) Создайте QWidjet application
-    2) Разместите 2 tableView элемента на форме используя дизайнер, разместите 4 pushButton, textEdit и lineEdit (см form.jpg)
+    1) Скопируйте все файлы данного проекта и разархивируйте их.
+    3) Ваш проект это разархивированная вами папка, она включает следующие файлы: examplemodel.cpp, examplemodel.h, main.cpp, mainwindow.cpp, mainwindow.h, clusters.cpp, clusters.h, readWrite.cpp, readWrite.h, clusters.txt, siluettes.txt и другие (см editor.jpg).
+    4) Запустите проект (откройте QT creator и затем откройте существующий проект выбирая файл untitled.pro)
+    5) На форме (mainwindow.ui) расположены 2 tableView элемента и 4 pushButton, textEdit и lineEdit (см form.jpg)
 ![form](https://github.com/marymex/projectTask/blob/master/form.jpg)
-    3) Скопируйте файлы examplemodel.cpp, examplemodel.h, main.cpp, mainwindow.cpp, mainwindow.h, clusters.cpp, clusters.h, readWrite.cpp, readWrite.h, clusters.txt, siluettes.txt в ваш проект как показано в редакторе (см editor.jpg). Файлы вашего проект расположены в некотором каталоге файловой системы. К этому каталогу нужно добавить навые файлы (см ProjectFiles.jpg)
-![projectFiles](https://github.com/marymex/projectTask/blob/master/ProjectFiles.jpg)
-    4) Запустите проект
-    5) Приложение заполняет 2 таблицы tableView из 2 текстовых файлов clusters.txt и siluettes.txt
-    6) При возникновении ошибки invalidPath (см invalidPath.jpg) нужно поменять путь до рабочего каталога, так как он указан неверно. 
+    6) Приложение заполняет 2 таблицы tableView из 2 текстовых файлов clusters.txt и siluettes.txt
+    7) При возникновении ошибки invalidPath (см invalidPath.jpg) нужно поменять путь до рабочего каталога, так как он указан неверно. 
 ![invalidPath](https://github.com/marymex/projectTask/blob/master/invalidPath.jpg)
     Для этого зайдите во вкладку Проекты (вертикальное меню слева в QT), нажмите Запустить под вашим compiling kit (см ChangePath.jpg)
 ![changePath](https://github.com/marymex/projectTask/blob/master/changePath.jpg)
-    7) Замените неправильный путь на правильный путь в котором хранятся файлы вашего проекты (см ChangePath2.jpg).
+    8) Замените неправильный путь на правильный путь в котором хранятся файлы вашего проекты (см ChangePath2.jpg).
 ![changePath2](https://github.com/marymex/projectTask/blob/master/changePath2.jpg)
   
 2. Необходимо реализовать следующие функции:
