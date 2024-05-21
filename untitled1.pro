@@ -31,4 +31,5 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 DISTFILES += \
     clusters.txt \
+    marketing_campaign_processed.csv \
     silhouettes.txt
