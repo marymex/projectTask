@@ -1,8 +1,8 @@
 1. Данное задание является одной из возможностей получить баллы. Критерии его оценки перечислены ниже. 
-Проект нужно собрать в QT-creator.
-    1) Скопируйте все файлы данного проекта и разархивируйте их.
-    3) Ваш проект это разархивированная вами папка, она включает следующие файлы: examplemodel.cpp, examplemodel.h, main.cpp, mainwindow.cpp, mainwindow.h, clusters.cpp, clusters.h, readWrite.cpp, readWrite.h, clusters.txt, siluettes.txt и другие (см editor.jpg).
-    4) Запустите проект (откройте QT creator и затем откройте существующий проект выбирая файл untitled.pro)
+иложение нужно собрать в QT-creator.
+    1) Скопируйте все файлы данного приложения и разархивируйте их.
+    3) Ваше приложение это разархивированная вами папка, она включает следующие файлы: examplemodel.cpp, examplemodel.h, main.cpp, mainwindow.cpp, mainwindow.h, clusters.cpp, clusters.h, readWrite.cpp, readWrite.h, clusters.txt, siluettes.txt и другие (см editor.jpg).
+    4) Запустите приложение (откройте QT creator и затем откройте существующее приложение выбирая файл untitled.pro)
     5) На форме (mainwindow.ui) расположены 2 tableView элемента и 4 pushButton, textEdit и lineEdit (см form.jpg)
 ![form](https://github.com/marymex/projectTask/blob/master/form.jpg)
     6) Приложение заполняет 2 таблицы tableView из 2 текстовых файлов clusters.txt и siluettes.txt
