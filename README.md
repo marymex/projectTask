@@ -1,5 +1,5 @@
 1. Данное задание является одной из возможностей получить баллы. Критерии его оценки перечислены ниже. 
-иложение нужно собрать в QT-creator.
+Приложение нужно собрать в QT-creator.
     1) Скопируйте все файлы данного приложения и разархивируйте их.
     3) Ваше приложение это разархивированная вами папка, она включает следующие файлы: examplemodel.cpp, examplemodel.h, main.cpp, mainwindow.cpp, mainwindow.h, clusters.cpp, clusters.h, readWrite.cpp, readWrite.h, clusters.txt, siluettes.txt и другие (см editor.jpg).
     4) Запустите приложение (откройте QT creator и затем откройте существующее приложение выбирая файл untitled.pro)
